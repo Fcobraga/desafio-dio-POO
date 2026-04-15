@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a032c02-7a29-4e72-b1e8-d8e418a84001" name="Changes" comment="add readme.md">
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desfio/dominio/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desfio/dominio/Mentoria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="2a032c02-7a29-4e72-b1e8-d8e418a84001" name="Changes" comment="mentoria e curso">
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desfio/dominio/Bootcamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desfio/dominio/Conteudo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desfio/dominio/Dev.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/desafio-dio-POO/br/com/dio/desfio/dominio/Curso.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/desafio-dio-POO/br/com/dio/desfio/dominio/Curso.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/desafio-dio-POO/br/com/dio/desfio/dominio/Mentoria.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/desafio-dio-POO/br/com/dio/desfio/dominio/Mentoria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desfio/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desfio/dominio/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desfio/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desfio/dominio/Mentoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,12 +110,21 @@
       <option name="project" value="LOCAL" />
       <updated>1776205062078</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="mentoria e curso">
+      <option name="closed" value="true" />
+      <created>1776208690769</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1776208690769</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="add readme.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="add readme.md" />
+    <MESSAGE value="mentoria e curso" />
+    <option name="LAST_COMMIT_MESSAGE" value="mentoria e curso" />
   </component>
 </project>
